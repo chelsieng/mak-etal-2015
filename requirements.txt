@@ -6,4 +6,5 @@ pandas
 paramiko
 pingouin
 matplotlib
+ppmi_downloader
 livingpark_utils
